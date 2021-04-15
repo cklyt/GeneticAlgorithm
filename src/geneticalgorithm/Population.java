@@ -7,7 +7,7 @@ package geneticalgorithm;
 
 /**
  *
- * @author Aman
+ * @author louis
  */
 public class Population {
     private Individual[] individuals;

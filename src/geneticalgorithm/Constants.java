@@ -7,7 +7,7 @@ package geneticalgorithm;
 
 /**
  *
- * @author Aman
+ * @author louis
  */
 public class Constants {
     private Constants(){

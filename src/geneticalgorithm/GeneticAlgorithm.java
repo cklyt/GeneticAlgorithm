@@ -9,12 +9,16 @@ import java.util.Random;
 
 /**
  *
- * @author Aman
+ * @author louis
  */
 public class GeneticAlgorithm {
 
     public Random randomGenerator;
-    
+
+    public Random getRandomGenerator() {
+        return randomGenerator;
+    }
+
     public GeneticAlgorithm(){
         this.randomGenerator = new Random();
     }

@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author Aman
+ * @author louis
  */
 public class Individual {
     private int[] genes;
