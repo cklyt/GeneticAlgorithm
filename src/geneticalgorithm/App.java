@@ -7,7 +7,7 @@ package geneticalgorithm;
 
 /**
  *
- * @author Aman
+ * @author louis
  */
 public class App {
     public static void main(String[] args) {
